@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/https,://ghaarp.github.io/thesumgame/static/js/main.70387dbb.js",
+    "static/media/default-ava.png": "/https,://ghaarp.github.io/thesumgame/static/media/default-ava.ca7543eb8c998f624dc7.png",
+    "index.html": "/https,://ghaarp.github.io/thesumgame/index.html",
+    "main.70387dbb.js.map": "/https,://ghaarp.github.io/thesumgame/static/js/main.70387dbb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.70387dbb.js"
+  ]
+}
