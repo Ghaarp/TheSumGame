@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/thesumgame/static/js/main.9d5876b6.js",
-    "static/media/default-ava.png": "/thesumgame/static/media/default-ava.ca7543eb8c998f624dc7.png",
-    "index.html": "/thesumgame/index.html",
-    "main.9d5876b6.js.map": "/thesumgame/static/js/main.9d5876b6.js.map"
+    "main.js": "/TheSumGame/static/js/main.737c720a.js",
+    "static/media/default-ava.png": "/TheSumGame/static/media/default-ava.ca7543eb8c998f624dc7.png",
+    "index.html": "/TheSumGame/index.html",
+    "main.737c720a.js.map": "/TheSumGame/static/js/main.737c720a.js.map"
   },
   "entrypoints": [
-    "static/js/main.9d5876b6.js"
+    "static/js/main.737c720a.js"
   ]
 }
