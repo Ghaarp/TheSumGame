@@ -1,8 +1,7 @@
-###The sum game - React + Node.js game
+#The sum game - React + Node.js game
 
 ###Information
-
-Current application link.
+[Current application link].(https://ghaarp.github.io/TheSumGame/ "TheSumGame")
 
 ###Overall
 TheSumGame - easy game application, made to learn basics of React and Node.js development. In this game, you need to guess 3 of 9 cells with maximal numbers. The sum of cells you guessed is your score. Application has a high-scores page, where you can see everyone's scores and you own scores only.
