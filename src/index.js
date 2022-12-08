@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import UserStore from "./store/UserStore";
 import {REACT_APP_API_URL} from "./utils/consts";
-import GameStore from "./store/GameStore";
 
 export const Context = createContext(null);
 console.log(REACT_APP_API_URL);
