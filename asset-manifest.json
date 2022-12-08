@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/TheSumGame/static/js/main.737c720a.js",
+    "main.js": "/TheSumGame/static/js/main.71385ace.js",
     "static/media/default-ava.png": "/TheSumGame/static/media/default-ava.ca7543eb8c998f624dc7.png",
     "index.html": "/TheSumGame/index.html",
-    "main.737c720a.js.map": "/TheSumGame/static/js/main.737c720a.js.map"
+    "main.71385ace.js.map": "/TheSumGame/static/js/main.71385ace.js.map"
   },
   "entrypoints": [
-    "static/js/main.737c720a.js"
+    "static/js/main.71385ace.js"
   ]
 }
